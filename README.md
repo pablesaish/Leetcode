@@ -60,6 +60,7 @@
 | [0287-find-the-duplicate-number](https://github.com/pablesaish/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pablesaish/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pablesaish/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/pablesaish/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -86,4 +87,5 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/pablesaish/Leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/pablesaish/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
