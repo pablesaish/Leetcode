@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pablesaish/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/pablesaish/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/pablesaish/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pablesaish/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Dynamic Programming
@@ -19,6 +20,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/pablesaish/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/pablesaish/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
