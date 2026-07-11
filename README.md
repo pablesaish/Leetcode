@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/pablesaish/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/pablesaish/Leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/pablesaish/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/pablesaish/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pablesaish/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/pablesaish/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -35,6 +36,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/pablesaish/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/pablesaish/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
