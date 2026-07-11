@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pablesaish/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/pablesaish/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/pablesaish/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/pablesaish/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pablesaish/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -40,6 +41,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pablesaish/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pablesaish/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/pablesaish/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/pablesaish/Leetcode/tree/master/0018-4sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pablesaish/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
