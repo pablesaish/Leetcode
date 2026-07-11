@@ -56,6 +56,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/pablesaish/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/pablesaish/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/pablesaish/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/pablesaish/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/pablesaish/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pablesaish/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pablesaish/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -81,4 +82,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/pablesaish/Leetcode/tree/master/0268-missing-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/pablesaish/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
