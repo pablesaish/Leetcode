@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/pablesaish/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pablesaish/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/pablesaish/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/pablesaish/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0027-remove-element](https://github.com/pablesaish/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/pablesaish/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/pablesaish/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/pablesaish/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Stack
 |  |
 | ------- |
