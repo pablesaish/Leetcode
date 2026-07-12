@@ -18,6 +18,7 @@
 | [0287-find-the-duplicate-number](https://github.com/pablesaish/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pablesaish/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pablesaish/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/pablesaish/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/pablesaish/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
 |  |
@@ -31,6 +32,7 @@
 | [0268-missing-number](https://github.com/pablesaish/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pablesaish/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pablesaish/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/pablesaish/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [0268-missing-number](https://github.com/pablesaish/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pablesaish/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pablesaish/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/pablesaish/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
