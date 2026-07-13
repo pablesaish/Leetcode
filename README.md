@@ -21,6 +21,7 @@
 | [0287-find-the-duplicate-number](https://github.com/pablesaish/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pablesaish/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pablesaish/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0766-toeplitz-matrix](https://github.com/pablesaish/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/pablesaish/Leetcode/tree/master/0867-transpose-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/pablesaish/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/pablesaish/Leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -113,6 +114,7 @@
 | [0054-spiral-matrix](https://github.com/pablesaish/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/pablesaish/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pablesaish/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0766-toeplitz-matrix](https://github.com/pablesaish/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/pablesaish/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/pablesaish/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
