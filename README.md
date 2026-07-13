@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/pablesaish/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/pablesaish/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/pablesaish/Leetcode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/pablesaish/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pablesaish/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pablesaish/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/pablesaish/Leetcode/tree/master/0137-single-number-ii) |
@@ -61,6 +62,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/pablesaish/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pablesaish/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/pablesaish/Leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/pablesaish/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pablesaish/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/pablesaish/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/pablesaish/Leetcode/tree/master/0278-first-bad-version) |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pablesaish/Leetcode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/pablesaish/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pablesaish/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/pablesaish/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
