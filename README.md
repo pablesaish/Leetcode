@@ -94,4 +94,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/pablesaish/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/pablesaish/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/pablesaish/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
