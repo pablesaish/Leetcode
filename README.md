@@ -20,6 +20,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/pablesaish/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pablesaish/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/pablesaish/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1572-matrix-diagonal-sum](https://github.com/pablesaish/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pablesaish/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/pablesaish/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pablesaish/Leetcode/tree/master/0054-spiral-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/pablesaish/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
