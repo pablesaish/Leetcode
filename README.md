@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/pablesaish/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/pablesaish/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/pablesaish/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/pablesaish/Leetcode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pablesaish/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pablesaish/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/pablesaish/Leetcode/tree/master/0137-single-number-ii) |
@@ -99,4 +100,12 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/pablesaish/Leetcode/tree/master/1291-sequential-digits) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/pablesaish/Leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/pablesaish/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
