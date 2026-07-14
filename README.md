@@ -28,6 +28,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/pablesaish/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/pablesaish/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pablesaish/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3033-modify-the-matrix](https://github.com/pablesaish/Leetcode/tree/master/3033-modify-the-matrix) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/pablesaish/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
 |  |
@@ -122,6 +123,7 @@
 | [0766-toeplitz-matrix](https://github.com/pablesaish/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/pablesaish/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/pablesaish/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [3033-modify-the-matrix](https://github.com/pablesaish/Leetcode/tree/master/3033-modify-the-matrix) |
 ## Simulation
 |  |
 | ------- |
