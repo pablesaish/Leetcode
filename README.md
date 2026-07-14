@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/pablesaish/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/pablesaish/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/pablesaish/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/pablesaish/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/pablesaish/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pablesaish/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -49,6 +50,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pablesaish/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/pablesaish/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/pablesaish/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/pablesaish/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -135,4 +137,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/pablesaish/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/pablesaish/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
