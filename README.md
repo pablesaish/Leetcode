@@ -17,6 +17,7 @@
 | [0136-single-number](https://github.com/pablesaish/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/pablesaish/Leetcode/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/pablesaish/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/pablesaish/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pablesaish/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/pablesaish/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pablesaish/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/pablesaish/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/pablesaish/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/pablesaish/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/pablesaish/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pablesaish/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pablesaish/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -125,4 +127,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/pablesaish/Leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/pablesaish/Leetcode/tree/master/0867-transpose-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/pablesaish/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
