@@ -31,6 +31,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/pablesaish/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pablesaish/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3033-modify-the-matrix](https://github.com/pablesaish/Leetcode/tree/master/3033-modify-the-matrix) |
+| [3248-snake-in-matrix](https://github.com/pablesaish/Leetcode/tree/master/3248-snake-in-matrix) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/pablesaish/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
 |  |
@@ -133,6 +134,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/pablesaish/Leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/pablesaish/Leetcode/tree/master/0867-transpose-matrix) |
+| [3248-snake-in-matrix](https://github.com/pablesaish/Leetcode/tree/master/3248-snake-in-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -141,4 +143,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pablesaish/Leetcode/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [3248-snake-in-matrix](https://github.com/pablesaish/Leetcode/tree/master/3248-snake-in-matrix) |
 <!---LeetCode Topics End-->
