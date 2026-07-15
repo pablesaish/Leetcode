@@ -157,4 +157,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pablesaish/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/pablesaish/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
