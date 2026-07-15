@@ -115,6 +115,7 @@
 | [0009-palindrome-number](https://github.com/pablesaish/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/pablesaish/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/pablesaish/Leetcode/tree/master/0268-missing-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pablesaish/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Interactive
 |  |
 | ------- |
@@ -152,4 +153,8 @@
 |  |
 | ------- |
 | [3248-snake-in-matrix](https://github.com/pablesaish/Leetcode/tree/master/3248-snake-in-matrix) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pablesaish/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
